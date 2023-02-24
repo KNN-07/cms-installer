@@ -1,6 +1,6 @@
 # cms-installer
 
-A script to install [CMS](https://github.com/cms-dev/cms) [1.3.2](https://cms.readthedocs.io/en/v1.3/) quickly.
+A script to install [CMS](https://github.com/cms-dev/cms) [1.4](https://cms.readthedocs.io/en/v1.4/) quickly.
 
 ## Installation
 
